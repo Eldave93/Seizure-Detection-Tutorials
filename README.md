@@ -28,21 +28,23 @@ Other databases exist but have their limitations:
 
 - Biosignal Feature Extraction 
 - Feature Pre-Processing
-- Classifiers
-- Model Evaluation and Hyperparameter Tuning
+- Supervised Classification
+- Model Evaluation
 - Ensemble Learning
 - Dimensionality Reduction
-- Bayesian Optimization
+- Hyperparameter Tuning (Gridsearch, Random Search, Bayesian Optimization)
 - Evolutionary Algorithms
 - Automated Machine Learning
 - Batch Learning
 - Multilayer Perceptrons
+- Convolutional Neural Networks
 - Recurrent Neural Networks
 
 I'd like to give a massive thank you to the open source community for all the hard work that is put into all the python language, interactive computing resourses, and packages used to make this project a reality. I am continually learning about coding and one day, when I feel more competent, I hope to contibute to such great work. Also thank you to Hvass Laboratories (http://www.hvass-labs.org/) whos Tutorials on TensorFlow were the inspiration for creating my own tutorials.
 
-**NOTE**
-- As of writing (21/03/19) this is an ongoing project which I work on alongside my PhD. Although many of the notebooks have had their first drafts finished, it may take time to make them all available as I tidy them up. Please be patient as I update this repository over the coming months.
+**Progress Updates**
+- 21/03/19: This is an ongoing project which I work on alongside my PhD. Although many of the notebooks have had their first drafts finished, it may take time to make them all available as I tidy them up. Please be patient as I update this repository over the coming months.
+- 30/07/19: A number of the notebooks after "Model Evaluation and Hyperparameter Tuning" rely on a script I'm putting together to extract features from windowed data commonly used for seizure detection. As I'm still tidying this up and adding to it as part of one of my thesis chapters, I am yet to upload the notebooks that use this. I aim for this and all tutorial notebooks to be uploaded before the submission of my thesis which (hopefully) will be before summer 2020. Also a database I use in my thesis, and recommend looking into, is the NEDC TUH EEG Seizure corpus<sup>26</sup>. This is the largest open-sourse dataset available for seizure EEG records to date. I don't currently use this in the tutorials, may alter some later tutorials to use it before uploading, as it is an amazing resourse for this work.
 
 ## Getting Started
 
@@ -177,3 +179,5 @@ There are a number of challenges to overcome when developing a machine learning 
 24. Halevy, A., Norvig, P., & Pereira, F. (2009). The unreasonable effectiveness of data. IEEE Intelligent Systems, 24(2), 8-12.
 
 25. https://research.google.com/colaboratory/faq.html
+
+26. https://www.isip.piconepress.com/projects/tuh_eeg/index.shtml
