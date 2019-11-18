@@ -32,9 +32,9 @@ Other databases exist but have their limitations:
 - Feature Pre-Processing
 - Supervised Classification
 - Model Evaluation
+- Hyperparameter Tuning (Gridsearch, Random Search, Bayesian Optimization)
 - Ensemble Learning
 - Dimensionality Reduction
-- Hyperparameter Tuning (Gridsearch, Random Search, Bayesian Optimization)
 - Evolutionary Algorithms
 - Automated Machine Learning
 - Batch Learning
