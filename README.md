@@ -2,13 +2,15 @@
 
 This series of notebooks demonstrate the application of signal processing and machine learning classification to epileptic seizure detection.
 
-Currently three open-sourse datasets are used: 
+Currently four open-source datasets are used: 
 
 1. The Epileptologie Database<sup>18</sup> 
 
 2. UPenn and Mayo Clinic's Seizure Detection Challenge<sup>21</sup> 
 
-3. CHB-MIT Scalp EEG Database<sup>19</sup>. 
+3. CHB-MIT Scalp EEG Database<sup>19</sup>
+
+4. NEDC TUH EEG Seizure corpus<sup>26</sup>
 
 Other databases exist but have their limitations:
 
@@ -44,7 +46,7 @@ I'd like to give a massive thank you to the open source community for all the ha
 
 **Progress Updates**
 - 21/03/19: This is an ongoing project which I work on alongside my PhD. Although many of the notebooks have had their first drafts finished, it may take time to make them all available as I tidy them up. Please be patient as I update this repository over the coming months.
-- 30/07/19: A number of the notebooks after "Model Evaluation and Hyperparameter Tuning" rely on a script I'm putting together to extract features from windowed data commonly used for seizure detection. As I'm still tidying this up and adding to it as part of one of my thesis chapters, I am yet to upload the notebooks that use this. I aim for this and all tutorial notebooks to be uploaded before the submission of my thesis which (hopefully) will be before summer 2020. Also a database I use in my thesis, and recommend looking into, is the NEDC TUH EEG Seizure corpus<sup>26</sup>. This is the largest open-sourse dataset available for seizure EEG records to date. I don't currently use this in the tutorials, but may alter some later tutorials to use it before uploading, as it is an amazing resourse for this work.
+- 18/11/19: A number of the notebooks after "Model Evaluation and Hyperparameter Tuning" rely on a script I'm putting together to extract features from windowed data commonly used for seizure detection. As I'm still tidying this up and adding to it as part of one of my thesis chapters, I am yet to upload the notebooks that use this. I aim for this and all tutorial notebooks to be uploaded before the submission of my thesis which (hopefully) will be before summer 2020.
 
 ## Getting Started
 
@@ -82,6 +84,7 @@ If you want to install the packages manually from command prompt (or Anaconda pr
 - mlxtend 
 - mne 
 - PyWavelets
+- Tensorflow
 
 ## Background
 
