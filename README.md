@@ -47,7 +47,7 @@ I'd like to give a massive thank you to the open source community for all the ha
 
 ## Getting Started
 
-Due to the size of these notebooks you may need to use [nbviewer](https://nbviewer.jupyter.org/) to view the notebooks. To do this all you need to do is copy the url for the notebook (e.g. https://github.com/Eldave93/Seizure_Detection_Tutorials/blob/master/Feature_Extraction_01_Epileptologie.ipynb) into the URL bar on the [nbviewer](https://nbviewer.jupyter.org/) website.
+Due to the size of these notebooks you may need to use [nbviewer](https://nbviewer.jupyter.org/) to view the notebooks. To do this all you need to do is copy the url for the notebook (e.g. https://github.com/Eldave93/Seizure-Detection-Tutorials/blob/master/01.%20Overview%20of%20Datasets.ipynb) into the URL bar on the [nbviewer](https://nbviewer.jupyter.org/) website.
 
 ### Prerequisites
 
