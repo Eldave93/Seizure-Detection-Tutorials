@@ -1,6 +1,6 @@
 # Seizure Detection Tutorials
 
-This series of notebooks demonstrate the application of signal processing and machine learning classification to epileptic seizure detection.
+This series of notebooks, which are currently under development, demonstrate the application of signal processing and machine learning classification to epileptic seizure detection.
 
 Currently four open-source datasets are used: 
 
