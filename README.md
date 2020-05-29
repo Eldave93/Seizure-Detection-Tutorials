@@ -43,6 +43,7 @@ Other databases exist but have their limitations:
 I'd like to give a massive thank you to the open source community for all the hard work that is put into the Python language, interactive computing resourses, and packages used to make this project a reality. Also thank you to Hvass Laboratories (http://www.hvass-labs.org/) whos Tutorials on TensorFlow were the inspiration for creating my own tutorials.
 
 **Progress Update**
+- 29/05/2020: Had some time to clean up the Dimensionality Reduction notebook which still has some work left to do on it (most of these notebooks are still work in progress). My current main focus is finishing my PhD (plan to submit in August) and submitting the work to journals. After I can release more of the code for these notebooks (particularly the one on creating the datasets). I also need to find a job, just in case anyone knows of anything relevent/interesting :)
 - 07/03/2020: Added bits to the notebooks that existed and changed the ordering of topics a bit. There are still gaps in the notebooks that I want to work on but hopefully I will be updating these more regularly from now on. The main way of getting the data for the tutorials is to download them from my Google Drive, but I will release the code for creating them soon once I have tidied it up.
 
 ## Getting Started
